@@ -1,0 +1,112 @@
+.bodyc {
+  text-align: center;
+  background-color: #1A120B !important;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  
+  color: #928e85c7;
+  width: 1680px; margin: 3% auto 5% auto; 
+  text-shadow: 0px 5px 3px #464543c7;
+}
+
+.container {
+  display: block;
+  width: 90%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+
+.bt {background-color: #72706ac7 !important;}
+
+
+.imag {position:relative; top:30px ; right: -10px;}
+.imag2 {position:relative; top:30px ; right: 23px;}
+.bti {width: 200px; height: 230px;}
+
+.imgshad {
+  position:absolute;
+  display:flex ;
+  margin-top:-120px ;
+  
+  margin-left: 147px;
+  z-index: -1;
+  
+  filter: blur(4px) contrast(0%) brightness(48%);
+  transform: skew(-25deg, 0deg);
+}
+.imgshad2 {
+  position:absolute;
+  
+  margin-top: 30px ;
+  
+  margin-right: auto;
+  z-index: -1;
+  
+  filter: blur(4px) contrast(0%) brightness(48%);
+  transform: skew(-25deg, 0deg);
+}
+.btn:hover {background-color: #494846c7;}
+.smimg {width: 200px; height: 200px; margin-bottom: 30px; background-color: #242322; border-radius: 16%;}
+
+
+.imgshad3 {
+  position:absolute;
+  display:flex ;
+  margin-top:-120px ;
+  
+  margin-left: 52px;
+  z-index: -1;
+  
+  filter: blur(4px) contrast(0%) brightness(48%);
+  transform: skew(-25deg, 0deg);
+}
+
+.imgshad4 {
+  position:absolute;
+  
+  margin-top: 30px ;
+  
+  margin-right: auto;
+  z-index: -1;
+  
+  filter: blur(4px) contrast(0%) brightness(48%);
+  transform: skew(-25deg, 0deg);
+}
+
+.imag3 {position:relative; top:30px ; right: 37px;}
+.imag4 {position:relative; top:30px ; right: 23px;}
+
+#ir1 {right: 30px;}
+#sr1 {margin-left: 515px;}
+#ir2 {left: 30px ;}
+#sr2 {margin-left: 52px;}
+
+
+
+.HCSkull {width: 200px; }
+.lgf {width: 350px;}
+
+.wrng {background-color: red !important;
+  text-align: center;}
+/* MOHC Classes */
+
+#HCbody {background-color: #010101 !important;}
+.HCh1 {margin-bottom: 0px;}
+#HCbox {width: 220px; height: 230px; background-color: #0f0f0fec !important;}
+
+#Skullsize {width: 500px; height: auto;}
+
+#aHC {width: 220px; height: 230px; background-color: #000 !important} 
